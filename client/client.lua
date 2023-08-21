@@ -1,4 +1,4 @@
-print("/!\ SCRIPT FOR DEV, command not restricted")
+print("SCRIPT FOR DEV, command not restricted")
 
 function notif(text)
     SetNotificationTextEntry("STRING")
